@@ -4,8 +4,9 @@
 
 **AI 数据基础设施 / 多模态数据平台 / Agent 工程化**
 
-**公众号：Agent Infra 架构手记**   
-**CSDN：我不介意孤独**
+**公众号：Agent Infra 架构手记**
+
+**CSDN：[我不介意孤独](https://blog.csdn.net/m0_63801909?type=blog)**
 
 
 我主要使用 Python 构建 AI 数据处理、检索增强、智能体编排和工程自动化相关系统。
